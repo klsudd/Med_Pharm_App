@@ -1,0 +1,1 @@
+ C:\\Users\\Dell\\MedPharmApp_Phase4\\MedPharmApp_Phase4\\.dart_tool\\flutter_build\\6ba256adb4033e811e3e89c43cb94025\\native_assets.json: 
